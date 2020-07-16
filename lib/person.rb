@@ -3,6 +3,6 @@ require 'pry'
 class Person
   def initialize(name)
     @name = name
-    binding.pry
+    # binding.pry
   end
 end
