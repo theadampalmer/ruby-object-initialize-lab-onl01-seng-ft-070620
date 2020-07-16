@@ -3,6 +3,6 @@ class Dog
   def initialize(name, breed = "Mutt")
     @name = name
     @breed = breed
-    binding.pry
+    # binding.pry
   end
 end
